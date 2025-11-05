@@ -9,7 +9,7 @@ from torchvision.transforms import ToTensor
 
 from train import NeuralNetwork
 
-path = 'fashion_mnist1.pth'
+path = 'fashion_mnist2.pth'
 
 training_data = datasets.FashionMNIST(
     root='data',
